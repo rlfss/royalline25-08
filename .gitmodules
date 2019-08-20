@@ -7,3 +7,8 @@
 	path = rlfss/royalapp
 	url = git@github.com:rlfss/royalapp.git
 	branch = master
+
+[submodule "rlfss/oca-royal5555"]
+	path = rlfss/oca-royal5555
+	url = git@github.com:rlfss/oca-royal.git
+	branch = master
