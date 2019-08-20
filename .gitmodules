@@ -12,3 +12,8 @@
 	path = rlfss/oca-royal5555
 	url = git@github.com:rlfss/oca-royal.git
 	branch = master
+
+[submodule "rlfss/oca-royal"]
+	path = rlfss/oca-royal
+	url = git@github.com:rlfss/oca-royal.git
+	branch = master
