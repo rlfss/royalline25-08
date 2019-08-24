@@ -1,0 +1,4 @@
+[submodule "rlfss/royalline"]
+	path = rlfss/royalline
+	url = git@github.com:rlfss/royalline.git
+	branch = M1
