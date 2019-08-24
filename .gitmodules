@@ -22,3 +22,8 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 12.0
+
+[submodule "OCA/hr00"]
+	path = OCA/hr00
+	url = git@github.com:OCA/hr.git
+	branch = 12.0
